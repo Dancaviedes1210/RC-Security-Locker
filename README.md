@@ -1,0 +1,2 @@
+# RC-Security-Locker
+RC security locker fue el proyecto que se realizó como proyecto de titulación en el 15 de noviembre del año 2018, Se restauró un locker de la basura y se adaptó para que contuviera los dispositivos electrónicos para el buen funcionamiento del sistema de seguridad el cual se controlaba mediante patrón táctil o tarjeta RFID y si no se contaba con tal acceso y se violaba el sistema sonaba la alarma.
